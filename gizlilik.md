@@ -23,7 +23,7 @@ a) Sistem Kullanılarak Saklanan Veriler:
 
 • Sunucu ID'si
     
-• Kanalı ID'si
+• Sunucu Kanalı ID'si
     
 • Sunucu rolü ID'si
 
