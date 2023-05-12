@@ -1,7 +1,7 @@
 # Electra Bot Hizmet Koşulları
 Düzenlenme Tarihi: 12/05/2023
 
-Bu Kullanım Koşulları, "Electra Bot" olarak bilinen Discord botunun ve electra-bot.com web sitesinin kullanım koşullarını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
+Bu Hizmet Koşulları, "Electra Bot" olarak bilinen Discord botunun ve electra-bot.com web sitesinin kullanım koşullarını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
 İşbu siteye ilişkin Hizmet Koşulları, yayınlanmakla yürürlüğe girer. Değişiklik yapma hakkı, tek taraflı olarak Electra Bot'a aittir ve Electra Bot üzerinden güncel olarak paylaşılacak olan bu değişiklikleri, tüm kullanıcılarımız baştan kabul etmiş sayılır.
 
 ## 1) Gizlilik
