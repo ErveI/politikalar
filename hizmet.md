@@ -14,8 +14,8 @@ Bu Hizmet Koşulları, "Electra Bot" olarak bilinen Discord botunun ve electra-b
 
 ## 3) Telif Hakları
 
-• Electra Bot'da yayınlanan tüm metin, kod, grafikler, logolar, resimler, ses dosyaları ve kullanılan yazılımın sahibi Electra Bot olup, tüm hakları saklıdır. Yazılı izin olmaksızın site içeriğinin çoğaltılması veya kopyalanması kesinlikle yasaktır.
-  
+• Electra Botun içeriği, tasarımı ve botun içindeki tüm dokümanlara ait hakları saklıdır. Botun içerisinde yer alan komutların aksi belirtilmediği sürece, botun içindeki hiçbir komut unsurları ve diğer unsurlar izin alınmaksızın __kopyalanamaz, başka yere taşınamaz, alıntı yapılamaz, internet üzerinde veya her ne şekilde olursa olsun yayınlanamaz ve kullanılamaz__. Electra Botunu kullanan kullanıcılar, botun telif hakkı konusunda **ERVEL’in** tüm talep ve açıklamalarını kabul ettiklerini beyan ve taahhüt ederler. Hakları saklı tutulmuş eserler, sahiplerinin muvafakati olmadan hiç bir suretle __çoğaltılamaz, alıntı yapılamaz, yayınlanamaz, başka bir yerde kullanılamaz__.
+
 ## 4) Genel Hükümler
 
 • Kullanıcıların tamamı, Electra Bot'u yalnızca hukuka uygun ve şahsi amaçlarla kullanacaklarını taahhüt eder. Electra Bot dâhilinde yaptıkları işlem ve eylemlerindeki, hukuki ve cezai sorumlulukları kendilerine aittir.
