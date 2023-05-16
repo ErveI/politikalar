@@ -1,7 +1,6 @@
 # Electra Bot Gizlilik Politikası
 Düzenlenme Tarihi: 12/05/2023
 
-Gizliliğiniz bizim için önemli. Bu sebeple bizimle paylaşacağınız kişisel verileriz hassasiyetle korunmaktadır. 
 Bu Gizlilik Politikası, "Electra Bot" olarak bilinen Discord botunun ve electra-bot.com web sitesinin kullanım amacını, topladığımız verilerin açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
 
 ## 1) Terminoloji
@@ -29,14 +28,14 @@ a) Sistem Kullanılarak Saklanan Veriler:
 
 b) Gecici Olarak Otomatik Saklanan Veriler
 
-• Süreli kullanılabilen komutlar için gecici olarak sunucu ID'si / Kullanıcı ID'si saklanır.
+• Süreli kullanılabilen komutlar için gecici olarak Sunucu ID'si veya Kullanıcı ID'si saklanır.
 
 ## 3) Verilerinizin İşlenmesi
 
 • Verileriniz dışa kapalı bir veri tabanında tutulmaktadır. Verilerinizin silinme işlemleri botu sunucunuzdan attığınızda gerçekleşmektedir.
 
-• Ayrıca özel bir şekilde sildirmek için bize discord destek sunucumuzdan ulaşarak sildirme talebinde bulunabilirsiniz.
+• Özel bir şekilde verilerinizi sildirmek için [Discord destek sunucumuzdan](https://discord.gg/JHHuYZRctN) bize ulaşarak verilerinizi sildirme talebinde bulunabilirsiniz.
 
-• Talepleriniz en geç 3 gün içerisinde yanıtlanır.
+• Talepleriniz 3 gün içerisinde yanıtlanır.
 
 ## Electra Bot bu maddeleri değiştirme/düzenleme hakkını saklı tutar.
